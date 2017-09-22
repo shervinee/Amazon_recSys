@@ -1,0 +1,110 @@
+Evaluating RMSE of algorithm SVDpp.
+
+------------
+Fold 1
+RMSE: 1.1569
+------------
+Fold 2
+RMSE: 1.1721
+------------
+Fold 3
+RMSE: 1.1732
+------------
+Fold 4
+RMSE: 1.1702
+------------
+Fold 5
+RMSE: 1.1739
+------------
+------------
+Mean RMSE: 1.1693
+------------
+------------
+Evaluating RMSE of algorithm SVD.
+
+------------
+Fold 1
+RMSE: 1.1813
+------------
+Fold 2
+RMSE: 1.2003
+------------
+Fold 3
+RMSE: 1.2030
+------------
+Fold 4
+RMSE: 1.1946
+------------
+Fold 5
+RMSE: 1.1988
+------------
+------------
+Mean RMSE: 1.1956
+------------
+------------
+Evaluating RMSE of algorithm KNNBaseline.
+
+------------
+Fold 1
+Estimating biases using als...
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1506
+------------
+Fold 2
+Estimating biases using als...
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1681
+------------
+Fold 3
+Estimating biases using als...
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1707
+------------
+Fold 4
+Estimating biases using als...
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1660
+------------
+Fold 5
+Estimating biases using als...
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1703
+------------
+------------
+Mean RMSE: 1.1651
+------------
+------------
+Fold 1
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1967
+------------
+Fold 2
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.2058
+------------
+Fold 3
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1949
+------------
+Fold 4
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1958
+------------
+Fold 5
+Computing the pearson similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1893
+------------
+------------
+Mean RMSE: 1.1965
+------------
+------------
